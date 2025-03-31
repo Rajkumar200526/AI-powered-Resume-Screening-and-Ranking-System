@@ -8,7 +8,8 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 
 # Sample dataset (resumes and job descriptions)
-data = {
+data = 
+{
     "resume_text": [
         "Experienced software engineer with expertise in Python and machine learning.",
         "Data scientist skilled in data analysis, Python, and TensorFlow.",
